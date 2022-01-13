@@ -1,0 +1,66 @@
+{
+    "shelves": [
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "George Orwell",
+                    "title": "1984",
+                    "num_of_pages": 328
+                },
+                {
+                    "author": "Stephen Hawking",
+                    "title": "A Brief History of Time",
+                    "num_of_pages": 212
+                },
+                {
+                    "author": "a",
+                    "title": "a",
+                    "num_of_pages": 2
+                }
+            ]
+        },
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "Dave Eggers",
+                    "title": "A Heartbreaking Work of Staggering Genius",
+                    "num_of_pages": 437
+                },
+                {
+                    "author": "Jeff Kinney",
+                    "title": "Diary of a Wimpy Kid",
+                    "num_of_pages": 224
+                }
+            ]
+        },
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "Frank Herbert",
+                    "title": "Dune",
+                    "num_of_pages": 704
+                },
+                {
+                    "author": "Ray Bradbury",
+                    "title": "Fahrenheit 451",
+                    "num_of_pages": 249
+                }
+            ]
+        }
+    ],
+    "readers": [
+        {
+            "id": "9",
+            "name": "9",
+            "books": [
+                {
+                    "title": "a",
+                    "date_read": "2022-01-13"
+                }
+            ]
+        }
+    ]
+}

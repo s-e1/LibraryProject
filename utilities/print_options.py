@@ -1,0 +1,12 @@
+def print_options():
+    print("To add a book - Press 1")
+    print("To delete a book - Press 2")
+    print("To switch books locations - Press 3")
+    print("To register a new reader - Press 4")
+    print("To remove a reader - Press 5")
+    print("To find books of an author - Press 6")
+    print("To add a book to a reader's list - Press 7")
+    print("To sort all shelves - Press 8")
+    print("To save all data - Press 9")
+    print("To load saved data - Press 10")
+    print("To quit - Press 11")
