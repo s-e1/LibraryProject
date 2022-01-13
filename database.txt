@@ -1,0 +1,38 @@
+[
+    {
+        "_id" : ObjectId("61da9ce85147d04c130c634f"),
+        "author" : "George Orwell",
+        "title" : "1984",
+        "num_of_pages" : 328
+    },
+    {
+        "_id" : ObjectId("61da9e6c5147d04c130c63be"),
+        "author" : "Stephen Hawking",
+        "title" : "A Brief History of Time",
+        "num_of_pages" : 212
+    },
+    {
+        "_id" : ObjectId("61da9e905147d04c130c63d0"),
+        "author" : "Dave Eggers",
+        "title" : "A Heartbreaking Work of Staggering Genius",
+        "num_of_pages" : 437
+    },
+    {
+        "_id" : ObjectId("61da9e995147d04c130c63db"),
+        "author" : "Jeff Kinney",
+        "title" : "Diary of a Wimpy Kid",
+        "num_of_pages" : 224
+    },
+    {
+        "_id" : ObjectId("61da9e9f5147d04c130c63de"),
+        "author" : "Frank Herbert",
+        "title" : "Dune",
+        "num_of_pages" : 704
+    },
+    {
+        "_id" : ObjectId("61da9ea45147d04c130c63e1"),
+        "author" : "Ray Bradbury",
+        "title" : "Fahrenheit 451",
+        "num_of_pages" : 249
+    }
+]
