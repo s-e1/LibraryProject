@@ -1,11 +1,3 @@
-# Class : Reader
-# Data Members:
-# - id (int)
-# - books (a list of dictionaries with titles of the books he read and the dates he took
-# them from the library)
-# Functions
-# - read_book – receives a book title and adds it + the current date to the books list
-
 from datetime import date
 
 
